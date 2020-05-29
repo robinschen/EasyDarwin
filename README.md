@@ -79,12 +79,14 @@
 
         # go tools
         go get -u -v github.com/kardianos/govendor
-        go get -u -v github.com/penggy/gobuild
+        go get -u -v github.com/robinschen/gobuild
 
         # npm tools
         npm i -g apidoc
         npm i -g rimraf
 
+        
+gobuild -main=main.go
 
 ### 编译命令
 
@@ -124,7 +126,7 @@
 - 打包 Pack
 
         # install pack
-        npm i -g @penggy/pack
+        npm i -g @MeloQi/pack
 
         # for windows
         npm run build:win

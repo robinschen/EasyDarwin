@@ -18,7 +18,7 @@
 //	import (
 //		"log"
 //
-//		"github.com/penggy/service"
+//		"github.com/MeloQi/service"
 //	)
 //
 //	var logger service.Logger
@@ -59,7 +59,7 @@
 //			logger.Error(err)
 //		}
 //	}
-package service // import "github.com/penggy/service"
+package service // import "github.com/MeloQi/service"
 
 import (
 	"errors"

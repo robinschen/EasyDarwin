@@ -1,9 +1,9 @@
 # sessions
 
-[![Build Status](https://travis-ci.org/gin-contrib/sessions.svg)](https://travis-ci.org/gin-contrib/sessions)
-[![codecov](https://codecov.io/gh/gin-contrib/sessions/branch/master/graph/badge.svg)](https://codecov.io/gh/gin-contrib/sessions)
-[![Go Report Card](https://goreportcard.com/badge/github.com/penggy/sessions)](https://goreportcard.com/report/github.com/penggy/sessions)
-[![GoDoc](https://godoc.org/github.com/penggy/sessions?status.svg)](https://godoc.org/github.com/penggy/sessions)
+[![Build Status](https://travis-ci.org/MeloQi/sessions.svg)](https://travis-ci.org/MeloQi/sessions)
+[![codecov](https://codecov.io/gh/MeloQi/sessions/branch/master/graph/badge.svg)](https://codecov.io/gh/MeloQi/sessions)
+[![Go Report Card](https://goreportcard.com/badge/github.com/MeloQi/sessions)](https://goreportcard.com/report/github.com/MeloQi/sessions)
+[![GoDoc](https://godoc.org/github.com/MeloQi/sessions?status.svg)](https://godoc.org/github.com/MeloQi/sessions)
 [![Join the chat at https://gitter.im/gin-gonic/gin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gin-gonic/gin)
 
 Gin middleware for session management with multi-backend support (currently cookie, Redis, Memcached, MongoDB, memstore).
@@ -15,13 +15,13 @@ Gin middleware for session management with multi-backend support (currently cook
 Download and install it:
 
 ```bash
-$ go get github.com/penggy/sessions
+$ go get github.com/MeloQi/sessions
 ```
 
 Import it in your code:
 
 ```go
-import "github.com/penggy/sessions"
+import "github.com/MeloQi/sessions"
 ```
 
 ## Examples
@@ -33,8 +33,8 @@ import "github.com/penggy/sessions"
 package main
 
 import (
-	"github.com/penggy/sessions"
-	"github.com/penggy/sessions/cookie"
+	"github.com/MeloQi/sessions"
+	"github.com/MeloQi/sessions/cookie"
 	"github.com/gin-gonic/gin"
 )
 
@@ -68,8 +68,8 @@ func main() {
 package main
 
 import (
-	"github.com/penggy/sessions"
-	"github.com/penggy/sessions/redis"
+	"github.com/MeloQi/sessions"
+	"github.com/MeloQi/sessions/redis"
 	"github.com/gin-gonic/gin"
 )
 
@@ -104,8 +104,8 @@ package main
 
 import (
 	"github.com/bradfitz/gomemcache/memcache"
-	"github.com/penggy/sessions"
-	"github.com/penggy/sessions/memcached"
+	"github.com/MeloQi/sessions"
+	"github.com/MeloQi/sessions/memcached"
 	"github.com/gin-gonic/gin"
 )
 
@@ -139,8 +139,8 @@ func main() {
 package main
 
 import (
-	"github.com/penggy/sessions"
-	"github.com/penggy/sessions/mongo"
+	"github.com/MeloQi/sessions"
+	"github.com/MeloQi/sessions/mongo"
 	"github.com/gin-gonic/gin"
 	"gopkg.in/mgo.v2"
 )
@@ -181,8 +181,8 @@ func main() {
 package main
 
 import (
-	"github.com/penggy/sessions"
-	"github.com/penggy/sessions/memstore"
+	"github.com/MeloQi/sessions"
+	"github.com/MeloQi/sessions/memstore"
 	"github.com/gin-gonic/gin"
 )
 

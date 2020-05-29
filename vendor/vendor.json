@@ -16,7 +16,7 @@
 		},
 		{
 			"checksumSHA1": "Z2F5SuvrW7HDh2Sf32t1RwjeeY4=",
-			"origin": "github.com/penggy/EasyGoLib/vendor/github.com/eiannone/keyboard",
+			"origin": "github.com/MeloQi/EasyGoLib/vendor/github.com/eiannone/keyboard",
 			"path": "github.com/eiannone/keyboard",
 			"revision": "d0926230dda8c9e4e61040cb7825a026dee7d2d3",
 			"revisionTime": "2018-09-07T02:33:35Z"
@@ -65,7 +65,7 @@
 		},
 		{
 			"checksumSHA1": "XDRHXh/kVS8bIzMftwCg+7zUcQc=",
-			"origin": "github.com/penggy/EasyGoLib/vendor/github.com/go-ini/ini",
+			"origin": "github.com/MeloQi/EasyGoLib/vendor/github.com/go-ini/ini",
 			"path": "github.com/go-ini/ini",
 			"revision": "d0926230dda8c9e4e61040cb7825a026dee7d2d3",
 			"revisionTime": "2018-09-07T02:33:35Z"
@@ -84,56 +84,56 @@
 		},
 		{
 			"checksumSHA1": "vnPc/a8qZdKZR7nTPR8D5D9hgz0=",
-			"origin": "github.com/penggy/sessions/vendor/github.com/go-redis/redis",
+			"origin": "github.com/MeloQi/sessions/vendor/github.com/go-redis/redis",
 			"path": "github.com/go-redis/redis",
 			"revision": "c3d6048651cd9420b049fc7ddfc232002d36e800",
 			"revisionTime": "2018-05-29T03:02:45Z"
 		},
 		{
 			"checksumSHA1": "6p9Md+f/kIyZi8uazErkdwi2F1c=",
-			"origin": "github.com/penggy/sessions/vendor/github.com/go-redis/redis/internal",
+			"origin": "github.com/MeloQi/sessions/vendor/github.com/go-redis/redis/internal",
 			"path": "github.com/go-redis/redis/internal",
 			"revision": "c3d6048651cd9420b049fc7ddfc232002d36e800",
 			"revisionTime": "2018-05-29T03:02:45Z"
 		},
 		{
 			"checksumSHA1": "BuzQsdMJMUXm8Zfwtuoz4QUdnZE=",
-			"origin": "github.com/penggy/sessions/vendor/github.com/go-redis/redis/internal/consistenthash",
+			"origin": "github.com/MeloQi/sessions/vendor/github.com/go-redis/redis/internal/consistenthash",
 			"path": "github.com/go-redis/redis/internal/consistenthash",
 			"revision": "c3d6048651cd9420b049fc7ddfc232002d36e800",
 			"revisionTime": "2018-05-29T03:02:45Z"
 		},
 		{
 			"checksumSHA1": "BOW6qcnIfmJmbW2PfvdXES/SLYM=",
-			"origin": "github.com/penggy/sessions/vendor/github.com/go-redis/redis/internal/hashtag",
+			"origin": "github.com/MeloQi/sessions/vendor/github.com/go-redis/redis/internal/hashtag",
 			"path": "github.com/go-redis/redis/internal/hashtag",
 			"revision": "c3d6048651cd9420b049fc7ddfc232002d36e800",
 			"revisionTime": "2018-05-29T03:02:45Z"
 		},
 		{
 			"checksumSHA1": "83zUabwsQG2lhxFxXVZvqgLYUvU=",
-			"origin": "github.com/penggy/sessions/vendor/github.com/go-redis/redis/internal/pool",
+			"origin": "github.com/MeloQi/sessions/vendor/github.com/go-redis/redis/internal/pool",
 			"path": "github.com/go-redis/redis/internal/pool",
 			"revision": "c3d6048651cd9420b049fc7ddfc232002d36e800",
 			"revisionTime": "2018-05-29T03:02:45Z"
 		},
 		{
 			"checksumSHA1": "iOSPlvBt1UdUYWcEykyV9FlOVSk=",
-			"origin": "github.com/penggy/sessions/vendor/github.com/go-redis/redis/internal/proto",
+			"origin": "github.com/MeloQi/sessions/vendor/github.com/go-redis/redis/internal/proto",
 			"path": "github.com/go-redis/redis/internal/proto",
 			"revision": "c3d6048651cd9420b049fc7ddfc232002d36e800",
 			"revisionTime": "2018-05-29T03:02:45Z"
 		},
 		{
 			"checksumSHA1": "VPC1wPFocnfREJoA+zLYrH6cgOY=",
-			"origin": "github.com/penggy/sessions/vendor/github.com/go-redis/redis/internal/singleflight",
+			"origin": "github.com/MeloQi/sessions/vendor/github.com/go-redis/redis/internal/singleflight",
 			"path": "github.com/go-redis/redis/internal/singleflight",
 			"revision": "c3d6048651cd9420b049fc7ddfc232002d36e800",
 			"revisionTime": "2018-05-29T03:02:45Z"
 		},
 		{
 			"checksumSHA1": "0+AfibiC+nliAysNEzb7EkcaFh4=",
-			"origin": "github.com/penggy/sessions/vendor/github.com/go-redis/redis/internal/util",
+			"origin": "github.com/MeloQi/sessions/vendor/github.com/go-redis/redis/internal/util",
 			"path": "github.com/go-redis/redis/internal/util",
 			"revision": "c3d6048651cd9420b049fc7ddfc232002d36e800",
 			"revisionTime": "2018-05-29T03:02:45Z"
@@ -146,21 +146,21 @@
 		},
 		{
 			"checksumSHA1": "IkPM2QLv9urri7S49wzroQx9oXA=",
-			"origin": "github.com/penggy/sessions/vendor/github.com/gorilla/context",
+			"origin": "github.com/MeloQi/sessions/vendor/github.com/gorilla/context",
 			"path": "github.com/gorilla/context",
 			"revision": "c3d6048651cd9420b049fc7ddfc232002d36e800",
 			"revisionTime": "2018-05-29T03:02:45Z"
 		},
 		{
 			"checksumSHA1": "GKB96ojS6AY/uBnfLWqZBsxTBY4=",
-			"origin": "github.com/penggy/sessions/vendor/github.com/gorilla/securecookie",
+			"origin": "github.com/MeloQi/sessions/vendor/github.com/gorilla/securecookie",
 			"path": "github.com/gorilla/securecookie",
 			"revision": "c3d6048651cd9420b049fc7ddfc232002d36e800",
 			"revisionTime": "2018-05-29T03:02:45Z"
 		},
 		{
 			"checksumSHA1": "7nOVP3Gi1ylX55Yd2rKoOsYGZTU=",
-			"origin": "github.com/penggy/sessions/vendor/github.com/gorilla/sessions",
+			"origin": "github.com/MeloQi/sessions/vendor/github.com/gorilla/sessions",
 			"path": "github.com/gorilla/sessions",
 			"revision": "c3d6048651cd9420b049fc7ddfc232002d36e800",
 			"revisionTime": "2018-05-29T03:02:45Z"
@@ -173,7 +173,7 @@
 		},
 		{
 			"checksumSHA1": "YBNroGKEItNe0bENTEKbx71DyGQ=",
-			"origin": "github.com/penggy/EasyGoLib/vendor/github.com/jinzhu/gorm/dialects/sqlite",
+			"origin": "github.com/MeloQi/EasyGoLib/vendor/github.com/jinzhu/gorm/dialects/sqlite",
 			"path": "github.com/jinzhu/gorm/dialects/sqlite",
 			"revision": "d0926230dda8c9e4e61040cb7825a026dee7d2d3",
 			"revisionTime": "2018-09-07T02:33:35Z"
@@ -192,21 +192,21 @@
 		},
 		{
 			"checksumSHA1": "nvA2lbgdlqUION3p1sk2yaL1zK4=",
-			"origin": "github.com/penggy/EasyGoLib/vendor/github.com/lestrrat-go/file-rotatelogs",
+			"origin": "github.com/MeloQi/EasyGoLib/vendor/github.com/lestrrat-go/file-rotatelogs",
 			"path": "github.com/lestrrat-go/file-rotatelogs",
 			"revision": "d0926230dda8c9e4e61040cb7825a026dee7d2d3",
 			"revisionTime": "2018-09-07T02:33:35Z"
 		},
 		{
 			"checksumSHA1": "DH2N/Hqw0uxTh5jHlT7KKaAoKtA=",
-			"origin": "github.com/penggy/EasyGoLib/vendor/github.com/lestrrat-go/file-rotatelogs/internal/option",
+			"origin": "github.com/MeloQi/EasyGoLib/vendor/github.com/lestrrat-go/file-rotatelogs/internal/option",
 			"path": "github.com/lestrrat-go/file-rotatelogs/internal/option",
 			"revision": "d0926230dda8c9e4e61040cb7825a026dee7d2d3",
 			"revisionTime": "2018-09-07T02:33:35Z"
 		},
 		{
 			"checksumSHA1": "X35OZ95M4MexgyFmMzeHBv2+JLQ=",
-			"origin": "github.com/penggy/EasyGoLib/vendor/github.com/lestrrat-go/strftime",
+			"origin": "github.com/MeloQi/EasyGoLib/vendor/github.com/lestrrat-go/strftime",
 			"path": "github.com/lestrrat-go/strftime",
 			"revision": "d0926230dda8c9e4e61040cb7825a026dee7d2d3",
 			"revisionTime": "2018-09-07T02:33:35Z"
@@ -219,7 +219,7 @@
 		},
 		{
 			"checksumSHA1": "b8p2+LinvOPZTw6RN1aLVxsRVJs=",
-			"origin": "github.com/penggy/EasyGoLib/vendor/github.com/mattn/go-sqlite3",
+			"origin": "github.com/MeloQi/EasyGoLib/vendor/github.com/mattn/go-sqlite3",
 			"path": "github.com/mattn/go-sqlite3",
 			"revision": "d0926230dda8c9e4e61040cb7825a026dee7d2d3",
 			"revisionTime": "2018-09-07T02:33:35Z"
@@ -238,31 +238,31 @@
 		},
 		{
 			"checksumSHA1": "xLzWQBx93nfL7iWFGbwmyYX/LZA=",
-			"path": "github.com/penggy/EasyGoLib/db",
+			"path": "github.com/MeloQi/EasyGoLib/db",
 			"revision": "d0926230dda8c9e4e61040cb7825a026dee7d2d3",
 			"revisionTime": "2018-09-07T02:33:35Z"
 		},
 		{
 			"checksumSHA1": "38aBVjLg48devHs7imW6AeWQ/Ho=",
-			"path": "github.com/penggy/EasyGoLib/utils",
+			"path": "github.com/MeloQi/EasyGoLib/utils",
 			"revision": "c61bc7ee568dd64a40f19ff44e32db22134226d9",
 			"revisionTime": "2018-12-13T05:46:04Z"
 		},
 		{
 			"checksumSHA1": "SBuXxdLcdTlDcOvRYEpnP0zp810=",
-			"path": "github.com/penggy/cors",
+			"path": "github.com/MeloQi/cors",
 			"revision": "d08bb28f7e4817e9e486cc6e7fb600afd90d01e5",
 			"revisionTime": "2018-09-18T14:50:40Z"
 		},
 		{
 			"checksumSHA1": "DjdlL8tDgyTtXn5P+b7LSYOVGII=",
-			"path": "github.com/penggy/service",
+			"path": "github.com/MeloQi/service",
 			"revision": "cab262f1f320bfa9ba0e9b40388ae9e09adc9692",
 			"revisionTime": "2018-07-11T10:11:26Z"
 		},
 		{
 			"checksumSHA1": "4TEjjZs0wSw4m2grfjaL1tba+6g=",
-			"path": "github.com/penggy/sessions",
+			"path": "github.com/MeloQi/sessions",
 			"revision": "c3d6048651cd9420b049fc7ddfc232002d36e800",
 			"revisionTime": "2018-05-29T03:02:45Z"
 		},
@@ -274,7 +274,7 @@
 		},
 		{
 			"checksumSHA1": "d6BycwPpKXW09I/tXMqcItE8SA4=",
-			"origin": "github.com/penggy/EasyGoLib/vendor/github.com/pkg/errors",
+			"origin": "github.com/MeloQi/EasyGoLib/vendor/github.com/pkg/errors",
 			"path": "github.com/pkg/errors",
 			"revision": "d0926230dda8c9e4e61040cb7825a026dee7d2d3",
 			"revisionTime": "2018-09-07T02:33:35Z"
@@ -323,28 +323,28 @@
 		},
 		{
 			"checksumSHA1": "b0qA11fMUwmCLwo/6Xx003iJe2Y=",
-			"origin": "github.com/penggy/service/vendor/golang.org/x/sys/windows/registry",
+			"origin": "github.com/MeloQi/service/vendor/golang.org/x/sys/windows/registry",
 			"path": "golang.org/x/sys/windows/registry",
 			"revision": "cab262f1f320bfa9ba0e9b40388ae9e09adc9692",
 			"revisionTime": "2018-07-11T10:11:26Z"
 		},
 		{
 			"checksumSHA1": "IRqLaXM/VQRzkbXPuiqOxTb2W0Y=",
-			"origin": "github.com/penggy/service/vendor/golang.org/x/sys/windows/svc",
+			"origin": "github.com/MeloQi/service/vendor/golang.org/x/sys/windows/svc",
 			"path": "golang.org/x/sys/windows/svc",
 			"revision": "cab262f1f320bfa9ba0e9b40388ae9e09adc9692",
 			"revisionTime": "2018-07-11T10:11:26Z"
 		},
 		{
 			"checksumSHA1": "uVlUSSKplihZG7N+QJ6fzDZ4Kh8=",
-			"origin": "github.com/penggy/service/vendor/golang.org/x/sys/windows/svc/eventlog",
+			"origin": "github.com/MeloQi/service/vendor/golang.org/x/sys/windows/svc/eventlog",
 			"path": "golang.org/x/sys/windows/svc/eventlog",
 			"revision": "cab262f1f320bfa9ba0e9b40388ae9e09adc9692",
 			"revisionTime": "2018-07-11T10:11:26Z"
 		},
 		{
 			"checksumSHA1": "KI6gK4mC68QfNu9ISn2nbN33svM=",
-			"origin": "github.com/penggy/service/vendor/golang.org/x/sys/windows/svc/mgr",
+			"origin": "github.com/MeloQi/service/vendor/golang.org/x/sys/windows/svc/mgr",
 			"path": "golang.org/x/sys/windows/svc/mgr",
 			"revision": "cab262f1f320bfa9ba0e9b40388ae9e09adc9692",
 			"revisionTime": "2018-07-11T10:11:26Z"
