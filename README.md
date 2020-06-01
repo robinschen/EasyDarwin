@@ -58,9 +58,9 @@
 
 - 测试推流
 
-	ffmpeg -re -i C:\Users\Administrator\Videos\test.mkv -rtsp_transport tcp -vcodec h264 -f rtsp rtsp://localhost/test
+	ffmpeg -re -i D:\workspace\tmp\222.mp4 -rtsp_transport tcp -vcodec h264 -f rtsp rtsp://localhost/test
 
-	ffmpeg -re -i C:\Users\Administrator\Videos\test.mkv -rtsp_transport udp -vcodec h264 -f rtsp rtsp://localhost/test
+	ffmpeg -re -i D:\workspace\tmp\222.mp4 -rtsp_transport udp -vcodec h264 -f rtsp rtsp://localhost/test
 			
 
 - 测试播放
@@ -85,8 +85,10 @@
         npm i -g apidoc
         npm i -g rimraf
 
-        
+### 打成exe 包 main.exe        
 gobuild -main=main.go
+
+### 执行main.exe
 
 ### 编译命令
 
@@ -126,7 +128,7 @@ gobuild -main=main.go
 - 打包 Pack
 
         # install pack
-        npm i -g @MeloQi/pack
+        npm i -g @penggy/pack
 
         # for windows
         npm run build:win

@@ -22,10 +22,13 @@ require (
 	github.com/gorilla/sessions v1.2.0 // indirect
 	github.com/jinzhu/gorm v0.0.0-20180512062900-82eb9f8a5bbb
 	github.com/jinzhu/inflection v1.0.0 // indirect
+	github.com/lestrrat-go/file-rotatelogs v2.3.0+incompatible // indirect
+	github.com/lestrrat-go/strftime v1.0.1 // indirect
 	github.com/mattn/go-isatty v0.0.9
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible // indirect
 	github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742
 	github.com/pixelbender/go-sdp v0.0.0-20181123094152-100bc9371a0c
+	github.com/pkg/errors v0.9.1 // indirect
 	github.com/shirou/gopsutil v0.0.0-20180417021151-63047d776e07
 	github.com/teris-io/shortid v0.0.0-20171029131806-771a37caa5cf
 	github.com/ugorji/go v1.1.7

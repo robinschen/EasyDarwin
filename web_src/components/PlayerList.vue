@@ -3,9 +3,9 @@
         <div class="alert alert-success alert-dismissible">
             <small>
                 <strong><i class="fa fa-info-circle"></i> 提示 : </strong> 
-                RTSP低延时播放器可以采用<a href="https://github.com/EasyDSS/EasyPlayer-RTSP-Win" target="_blank"> EasyPlayer-RTSP <i class="fa fa-external-link"></i></a>，
+                RTSP低延时播放器可以采用<a href="#" target="_blank"> EasyPlayer-RTSP <i class="fa fa-external-link"></i></a>，
                 <span class="push-url-format">拉流播放URL规则: rtsp://{ip}:{port}/{id}</span> ，
-                例如 : rtsp://www.easydarwin.org:554/your_stream_id
+                例如 : rtsp://localhost:554/your_stream_id
             </small>
             <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
         </div> 
